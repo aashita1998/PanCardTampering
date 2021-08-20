@@ -2,7 +2,7 @@
 This project helps in detecting the tampered id cards using computer vision, i.e in this project it is pan card. 
 With the help of this project you can even develop a model that detects the tampered id cards either it maybe adhar card, credit card, any govt id cards.
 
-This project was classified into 10 steps: 
+This project is classified into 10 steps: 
 
 Step1: Get images from user.
 
